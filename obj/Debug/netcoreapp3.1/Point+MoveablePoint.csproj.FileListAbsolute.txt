@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Point+MoveablePoint\bin\Debug\netcoreapp3.1\Point+MoveablePoint.exe
+C:\Users\Administrator\source\repos\Point+MoveablePoint\bin\Debug\netcoreapp3.1\Point+MoveablePoint.deps.json
+C:\Users\Administrator\source\repos\Point+MoveablePoint\bin\Debug\netcoreapp3.1\Point+MoveablePoint.runtimeconfig.json
+C:\Users\Administrator\source\repos\Point+MoveablePoint\bin\Debug\netcoreapp3.1\Point+MoveablePoint.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Point+MoveablePoint\bin\Debug\netcoreapp3.1\Point+MoveablePoint.dll
+C:\Users\Administrator\source\repos\Point+MoveablePoint\bin\Debug\netcoreapp3.1\Point+MoveablePoint.pdb
+C:\Users\Administrator\source\repos\Point+MoveablePoint\obj\Debug\netcoreapp3.1\Point+MoveablePoint.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Point+MoveablePoint\obj\Debug\netcoreapp3.1\Point+MoveablePoint.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Point+MoveablePoint\obj\Debug\netcoreapp3.1\Point+MoveablePoint.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Point+MoveablePoint\obj\Debug\netcoreapp3.1\Point+MoveablePoint.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Point+MoveablePoint\obj\Debug\netcoreapp3.1\Point+MoveablePoint.dll
+C:\Users\Administrator\source\repos\Point+MoveablePoint\obj\Debug\netcoreapp3.1\Point+MoveablePoint.pdb
+C:\Users\Administrator\source\repos\Point+MoveablePoint\obj\Debug\netcoreapp3.1\Point+MoveablePoint.genruntimeconfig.cache
